@@ -7,12 +7,10 @@
   ### PCF
   - [Hristina](http://spring-boot-web-app.cfapps.io/)
   - [Christopher](http://chef.cfapps.io)
-
-  - [MicroServices](https://github.com/christopher-cook/micro-app)
-
 ---
   - ![Jenkins - Hristina](https://i.imgur.com/QsJMaXP.png)
   - ![Jenkins - Christopher](https://i.imgur.com/vNcPWoH.png)
 ---
+  - [MicroServices](https://github.com/christopher-cook/micro-app)
 
 
